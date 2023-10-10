@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> The project aims to analyze data from the largest online loan marketplace, Lending Club, to identify and understand the key factors (driver variables) that contribute to loan defaults (charged-off loans). By conducting exploratory data analysis (EDA), the company intends to pinpoint strong indicators of loan default, enabling better risk assessment and reduction of credit loss.
+> The main goal of this analysis is to reduce financial losses caused by lending money to applicants who are likely to default on their loans. When borrowers don't repay their loans, the lender faces financial losses, which are called credit losses. We want to identify these risky loan applicants through Exploratory Data Analysis (EDA) so that we can reduce the number of such loans and minimize credit losses. This means finding the factors or variables that strongly indicate loan defaults. By understanding these factors, the company can make better decisions about its loan portfolio and risk assessment.
 
 
 ## Table of Contents
@@ -19,10 +19,10 @@
 * Dataset: The dataset used for this analysis is from the Lending Club.
 
 ## Technologies Used
-- Pandas - version 1.2.4
+- Pandas - version 2.1.1
 - NumPy - version 1.20.2
-- Matplotlib - version 3.4.1
-- Seaborn - version 0.11.1
+- Matplotlib - version 3.8.0
+- Seaborn - version 0.12
 
 ## Conclusions
 - Renters Have a Higher Default Rate: Applicants who are living in rented properties (as opposed to homeowners) tend to default more frequently on their loans. This suggests that homeowners may be more financially stable and have a lower risk of default.
@@ -35,13 +35,12 @@
 
 
 ## Acknowledgements
-- This project was inspired by the need to reduce credit losses in the lending industry.
+- This case study was developed as part of the Exploratory Data Analysis Module for the Post Graduate Diploma in Machine Learning and AI at IIIT, Bangalore.
 
 
 ## Contact
 
-Created by :
-
-Vivek Mishra [@vivekmishrabharatvarsh] - feel free to contact me!
-Chittaranjan Patra
+ 1. Vivek Mishra
+ 
+ 2. Chittaranjan Patra
 
